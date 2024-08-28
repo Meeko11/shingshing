@@ -1,0 +1,14 @@
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.vbproj.AssemblyReference.cache
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.Form1.resources
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.main2.resources
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.main3.resources
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.Resources.resources
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.vbproj.GenerateResource.cache
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.vbproj.CoreCompileInputs.cache
+C:\Users\mikoe\source\repos\shingshing\bin\Debug\shingshing.exe.config
+C:\Users\mikoe\source\repos\shingshing\bin\Debug\shingshing.exe
+C:\Users\mikoe\source\repos\shingshing\bin\Debug\shingshing.pdb
+C:\Users\mikoe\source\repos\shingshing\bin\Debug\shingshing.xml
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.exe
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.xml
+C:\Users\mikoe\source\repos\shingshing\obj\Debug\shingshing.pdb
